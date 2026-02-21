@@ -23,7 +23,7 @@ Hero sections are usually used in landing pages and portfolio websites to grab a
 👉 Check it out here:
 https://samriddhikhokhar.github.io/HeroSection/
 
-## 📂 How to Use
+ ## 📂 How to Use
 
 1️⃣ Download or clone the repository
 2️⃣ Open `index.html` in your browser
