@@ -25,7 +25,7 @@ h1{
     font-size: 80px;
     font-weight: 100;
     font-family: playfair;
-    cursor: pointer;
+    cursor: default;
 }
 
 button{
